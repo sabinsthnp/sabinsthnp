@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=pasalnp&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sabinsthnp&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello awesome person
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m @pasalnp
+- 👋 Hi, I’m @sabinsthnp
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently working in React Native
 - 💞️ I’m looking to collaborate on MERN stack projects like e-commerce, cms, etc.
@@ -57,16 +57,16 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/pasalnp/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sabin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasalnp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/sabinsthnp/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sabin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinsthnp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <h2 align="center"><strong> 📊 My Github Stats</strong></h2>
 
   <br/>
-    <a href="https://github.com/pasalnp/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasalnp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pasalnp/github-readme-stats"><img alt="Sabin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasalnp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/sabinsthnp/github-readme-stats"><img alt="Sabin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabinsthnp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sabinsthnp/github-readme-stats"><img alt="Sabin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinsthnp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -74,6 +74,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/pasalnp/github-readme-activity-graph"><img alt="Sabin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pasalnp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sabinsthnp/github-readme-activity-graph"><img alt="Sabin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabinsthnp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
