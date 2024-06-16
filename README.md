@@ -80,4 +80,6 @@
 
 <a href="https://www.keybr.com/profile/n2ngjzk"><img alt="Sabin's Key BR Graph" src="https://activity-graph.herokuapp.com/graph?username=sabinsthnp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabinsthnp)](https://github.com/sabinsthnp/github-readme-stats)
+<a href="https://github.com/sabinsthnp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinsthnp" />
+</a>
