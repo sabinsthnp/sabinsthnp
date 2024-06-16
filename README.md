@@ -25,7 +25,7 @@
 
 - 👋 Hi, I’m Sabin Shrestha @sabinsthnp
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working in React Native
+- 🌱 I’m currently working in NEXTJS Project
 - 💞️ I’m looking to collaborate on MERN stack projects like e-commerce, cms, etc.
 - 📫 How to reach me Email: iam@sabinsth.com.np
 
