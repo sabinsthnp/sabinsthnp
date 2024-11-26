@@ -21,9 +21,7 @@
 
 ---
 
-<a href="https://www.keybr.com/profile/n2ngjzk"><img alt="Sabin's Key BR Graph" src="https://activity-graph.herokuapp.com/graph?username=sabinsthnp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
----
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m Sabin Shrestha @sabinsthnp
@@ -33,7 +31,8 @@
 - 📫 How to reach me Email: iam@sabinsth.com.np
 
 ---
-
+<a href="javascript:void(0)"><img alt="sabin's Trophies" style="width:100%" src="https://github-profile-trophy.vercel.app/?username=sabinsthnp" /></a>
+---
 ### :hammer_and_wrench: Languages and Tools :
 <p float="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
@@ -80,5 +79,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabinsthnp&show_icons=true&theme=radical" />
 </a>
-<a href="javascript:void(0)"><img alt="sabin's Trophies" style="width:100%" src="https://github-profile-trophy.vercel.app/?username=sabinsthnp" /></a>
 
+---
+
+<a href="https://www.keybr.com/profile/n2ngjzk"><img alt="Sabin's Key BR Graph" src="https://activity-graph.herokuapp.com/graph?username=sabinsthnp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+---
